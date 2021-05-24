@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1494-0F7E
+
+ Directory of C:\Users\Dell\Desktop\gitproject
+
+05/24/2021  04:00 PM    <DIR>          .
+05/24/2021  04:00 PM    <DIR>          ..
+05/24/2021  03:25 PM               407 index.html
+05/24/2021  03:24 PM                10 test1.txt
+05/24/2021  04:00 PM                 0 test2.txt
+               3 File(s)            417 bytes
+               2 Dir(s)  35,064,262,656 bytes free
