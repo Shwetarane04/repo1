@@ -1,1 +1,2 @@
 Change 1
+This is file about githb connection and integration method
